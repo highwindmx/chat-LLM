@@ -1,0 +1,8 @@
+wave
+streamlit
+streamlit_chat
+speech_recognition
+faster_whisper
+ollama
+melo_onnx
+sounddevice
